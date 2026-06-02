@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  👽 Sobre Mim: 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software, automação de processos e soluções embarcadas com microcontroladores. Atualmente desenvolvendo projetos pessoais para aprimorar conhecimentos em JavaScript, Python, C++ e sistemas baseados em ESP32 e Arduino.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gb.pinheiro) 
 
 # 💻 Tech Stack:
